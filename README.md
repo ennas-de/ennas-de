@@ -26,6 +26,15 @@
 <br/>  
 
 
+
+## Github Stats 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ennas-de&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&theme=radical) 
+
+<br/>  
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -123,13 +132,6 @@
 <br/>  
 
 
-## Github Stats 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ennas-de&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&theme=radical) 
-
-<br/>  
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 Coming soon... 
@@ -137,7 +139,7 @@ Coming soon...
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313illjpgttphsfwu3j2ewvknwxi&cover_image=true&theme=default&show_offline=false" /></div>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313illjpgttphsfwu3j2ewvknwxi&cover_image=true&theme=default&show_offline=false" /></div>   -->
 
 <br/>  
 
