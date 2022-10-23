@@ -10,20 +10,24 @@
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p> -->
 
 
-### <div align="center">I'm Abdulhakeem, a full-time software developer, business developer and digital marketer 👨‍💻 working remotely since 2017 🚀</div>
+### <div align="center">I'm Abdulhakeem, a full-time software developer💻, business developer📈 and digital marketer🧑. Working remotely 🚀 since 2017 </div>
 
-- 🔭 I’m currently working on rebuilding my own startup - Ennas Crown Concepts https://ennascrownconcepts.com  
+- 🔭 I’m currently working on building my own startup - Ennas Crown Concepts https://ennascrownconcepts.com  
 
 - 👀 I’m interested in Coding, Solving problems and building projects
 
 - 👨‍💻 My current skills are:
-     - Programming LanguagesJavaScript, Python and PHP MERN stack (ReactJS, NodeJS, ExpressJS and MongoDB), Django and WordPress.
+     - Programming Languages: JavaScript, Python and PHP
+     - Stacks/Frameworks: MERN stack (ReactJS, NodeJS, ExpressJS and MongoDB), Django and WordPress.
  
 - 🌱 I’m currently learning Dart and C programming languages, as well as Microservices architechture and cloud computing
  
 - 💞️ I’m looking to collaborate on Projects that save humanity
  
-- 📫 How to reach me through my email (dev.abdulhakeem@gmail.com) or phone (+2347063095047)
+- 📫 How to reach me through:
+     - mail: dev.abdulhakeem@gmail.com
+     - phone/WhatsApp: +2347063095047
+     - any of my other social media accounts shared below
 
 - ⚡ Fun fact: I am a coding addict  
 
