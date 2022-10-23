@@ -36,6 +36,7 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ennas-de&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&theme=radical) 
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 <br/>  
 
 
