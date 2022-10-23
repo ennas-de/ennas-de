@@ -124,9 +124,8 @@
 
 
 ## Github Stats 
-<div  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennas-de&hide_border=false&layout=demo&card-width=200px&theme=radical" align="left" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&count_private=true&hide_border=false&card-width=200px&theme=radical" align="reight" /></div>  
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ennas-de&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&theme=radical) 
 
 <br/>  
 
