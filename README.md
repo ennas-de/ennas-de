@@ -126,7 +126,7 @@
 ## Github Stats 
 <div  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennas-de&hide_border=true&layout=demo" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&count_private=true&hide_border=true&card-width=200px" align="center" /></div>  
 
 <br/>  
 
