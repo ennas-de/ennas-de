@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%; height: 20px; background-color: none" />
 </div>  
 
 <img src="https://github.com/ennas-de/ennas-de/blob/816f78eb3c4ff8a5f6e827a839930c87d19e7b56/ennas-de%20github.png" alt="Abdulhakeem Muhammed (Founder and CEO) - software developer,business developer, digital marketer">
