@@ -25,8 +25,8 @@
 - 💞️ I’m looking to collaborate on Projects that save humanity
  
 - 📫 How to reach me through:
-     - mail: dev.abdulhakeem@gmail.com
-     - phone/WhatsApp: +2347063095047
+     - mail📧: dev.abdulhakeem@gmail.com
+     - phone/WhatsApp📱: +2347063095047
      - any of my other social media accounts shared below
 
 - ⚡ Fun fact: I am a coding addict  
