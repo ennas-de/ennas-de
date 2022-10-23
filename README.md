@@ -3,7 +3,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 10rem; background: none" />
 </div>  
 
-<img src="https://github.com/ennas-de/ennas-de/blob/816f78eb3c4ff8a5f6e827a839930c87d19e7b56/ennas-de%20github.png" alt="Abdulhakeem Muhammed (Founder and CEO) - software developer,business developer, digital marketer">
+<img src="https://github.com/ennas-de/ennas-de/blob/1b1c7c2d8c01e4fcac692a1d6832cd1f787791aa/coding.jpg" alt="Abdulhakeem Muhammed (Founder and CEO) - software developer,business developer, digital marketer">
 
 
 ### <div align="center">I'm Abdulhakeem, a full-time software developer, business developer and digital marketer 👨‍💻 working remotely since 2017 🚀</div>
