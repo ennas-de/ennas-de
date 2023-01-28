@@ -12,17 +12,17 @@
 
 ### <div align="center">I'm Abdulhakeem, a full-time software developer💻, business developer📈 and digital marketer🧑. Working remotely 🚀 since 2017 </div>
 
-- 🔭 I’m currently working on building my own startup - Ennas Crown Concepts https://ennascrownconcepts.com  
+- 🔭 I’m currently working on re-building 10+ full stack projects in different programming languages (JS, TS, PHP, PY) using different technologies.  
 
 - 👀 I’m interested in Coding, Solving problems and building projects
 
 - 👨‍💻 My current skills are:
-     - Programming Languages: JavaScript, Python and PHP
-     - Stacks/Frameworks: MERN stack (ReactJS, NodeJS, ExpressJS and MongoDB), Django and WordPress.
+     - Programming Languages: JavaScript, TypeScript, Python and PHP
+     - Stacks/Frameworks: MERN stack (ReactJS, NodeJS, ExpressJS and MongoDB), Django and WordPress as well as Microservices architechture and cloud computing.
  
-- 🌱 I’m currently learning Dart and C programming languages, as well as Microservices architechture and cloud computing
+- 🌱 I’m currently learning Dart and C programming languages 
  
-- 💞️ I’m looking to collaborate on Projects that save humanity
+- 💞️ I’m looking to collaborate on Projects that are awsome, challenging and have a hand in saving humanity
  
 - 📫 How to reach me through:
      - mail📧: dev.abdulhakeem@gmail.com
