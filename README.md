@@ -18,7 +18,7 @@
 
 - 👨‍💻 My current skills are:
      - Programming Languages: JavaScript, TypeScript, Python and PHP
-     - Stacks/Frameworks: MERN stack (ReactJS, NodeJS, ExpressJS and MongoDB), Django and WordPress as well as Microservices architechture and cloud computing.
+     - Stacks/Frameworks: MERN stack (ReactJS, NodeJS, ExpressJS and MongoDB), Django, Laravel and WordPress as well as Microservices architechture and cloud computing.
  
 - 🌱 I’m currently learning Dart and C programming languages 
  
