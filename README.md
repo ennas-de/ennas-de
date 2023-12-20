@@ -12,17 +12,9 @@
 
 ### <div align="center">I'm Abdulhakeem, a full-time software developer💻, business developer📈 and digital marketer🧑. Working remotely 🚀 since 2017 </div>
 
-- 🔭 I’m currently working on re-building 10+ full stack projects in different programming languages (JS, TS, PHP, PY) using different technologies.  
+- 🔭 I’m currently learning a lot of skills to help humanity reach Type 1 Civilization. By first conquering the Human-Manchine Interface (Human-Computer Interface).  
 
-- 👀 I’m interested in Coding, Solving problems and building projects
-
-- 👨‍💻 My current skills are:
-     - Programming Languages: JavaScript, TypeScript, Python and PHP
-     - Stacks/Frameworks: MERN stack (ReactJS, NodeJS, ExpressJS and MongoDB), Django, Laravel and WordPress as well as Microservices architechture and cloud computing.
- 
-- 🌱 I’m currently learning Dart and C programming languages 
- 
-- 💞️ I’m looking to collaborate on Projects that are awsome, challenging and have a hand in saving humanity
+- 👀 I’m interested in Full-Stack, Software Development, and AI/ML projects.
  
 - 📫 How to reach me through:
      - mail📧: dev.abdulhakeem@gmail.com
@@ -40,7 +32,6 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ennas-de&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&theme=radical) 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 <br/>  
 
 
