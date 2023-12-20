@@ -26,16 +26,6 @@
 
 <br/>  
 
-
-
-## Github Stats 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=ennas-de&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=ennas-de&show_icons=true&theme=radical) 
-
-<br/>  
-
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
