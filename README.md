@@ -10,11 +10,11 @@
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p> -->
 
 
-### <div align="center">I'm Abdulhakeem, a full-time software developer💻, business developer📈 and digital marketer🧑. Working remotely 🚀 since 2017 </div>
+### <div align="center">I'm Abdulhakeem, I build Dreams and Futures </div>
 
-- 🔭 I’m currently learning a lot of skills to help humanity reach Type 1 Civilization. By first conquering the Human-Manchine Interface (Human-Computer Interface).  
+- 🔭 I'm currently learning skills to help me build a better future for all.  
 
-- 👀 I’m interested in Full-Stack, Software Development, and AI/ML projects.
+- 👀 I’m interested in Software Engineering and AI/ML Engineering projects.
  
 - 📫 How to reach me through:
      - mail📧: dev.abdulhakeem@gmail.com
