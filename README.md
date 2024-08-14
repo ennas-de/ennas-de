@@ -14,7 +14,7 @@
 
 - 🔭 I'm currently learning skills to help me build a better future for all.  
 
-- 👀 I’m interested in Software Engineering and AI/ML Engineering projects.
+- 👀 I’m interested in Blockchain technology, Software Engineering, and AI/ML Engineering projects.
  
 - 📫 How to reach me through:
      - mail📧: dev.abdulhakeem@gmail.com
