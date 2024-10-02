@@ -14,11 +14,13 @@
 
 - 🔭 I'm currently learning skills to help me build a better future for all.  
 
-- 👀 I’m interested in Blockchain technology, Software Engineering, and AI/ML Engineering projects.
+- 👀 I’m interested in Blockchain technology, Software Engineering, Data Engineering, and AI/ML projects.
  
 - 📫 How to reach me through:
      - mail📧: dev.abdulhakeem@gmail.com
      - phone/WhatsApp📱: +2347063095047
+     - X (formerly Twitter): @ennas_de
+     - LinkedIn: https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi/
      - any of my other social media accounts shared below
 
 - ⚡ Fun fact: I am a coding addict  
