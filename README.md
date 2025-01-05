@@ -35,8 +35,8 @@
 ### <div align="center">Work With Me: </div>
 
 - 📫 Have a project or Idea? You can reach me through:
-     - portfolio: https://freelancer.concourx.netlify.app/freelancers/default
-     - portfolio: https://business.concourx.netlify.app/businesses/altruva-group
+     - portfolio: https://freelancer.concourx.netlify.app/freelancers/default (ongoing)
+     - portfolio: https://business.concourx.netlify.app/businesses/altruva-group (ongoing)
      - mail📧: dev.abdulhakeem@gmail.com
      - phone/WhatsApp📱: +2347063095047
      - X (formerly Twitter): @ennas_de
