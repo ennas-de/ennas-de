@@ -4,7 +4,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ennas-de&style=flat-square&color=blue" alt=""></p>
 
 <!-- <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
-<h1 align="center">hey there <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40"></h1>
+<h1 align="center">Let's build together!<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40"></h1>
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="600" height="300"  /> -->
@@ -14,7 +14,7 @@
 <div>
  <div align="center"> I'm Abdulhakeem, I build Solutions (Dreams and Futures) </div>
 
- <p>By leveraging several tools, skill sets, and years of experience to:</p>
+ <p>By leveraging several tools, skill sets, and years of experiences to:</p>
  <table>
   <tr><td>1. Build websites (that can be used as a catalog, brand platform, and/or sales funnel). These websites help businesses grow, drive engagements, and serve as cardinal tools for online presence.</td>
   </tr>  
@@ -35,15 +35,14 @@
 ### <div align="center">Work With Me: </div>
 
 - 📫 Have a project or Idea? You can reach me through:
-     - portfolio: https://freelancer.concourx.netlify.app/freelancers/default (ongoing)
-     - portfolio: https://business.concourx.netlify.app/businesses/altruva-group (ongoing)
+     - portfolio: https://altruva-group.netlify.app
      - mail📧: dev.abdulhakeem@gmail.com
      - phone/WhatsApp📱: +2347063095047
      - X (formerly Twitter): @ennas_de
      - LinkedIn: https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi/
      - any of my other social media accounts shared below
 
-- ⚡ Fun fact: I am a coding addict  
+- ⚡ Fun fact: I am a serial solopreneur 
 
 
 <br/>  
