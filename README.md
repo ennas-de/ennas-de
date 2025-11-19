@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <!-- <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
-<h1 align="center">Let's build together!</h1>
+<h1 align="center">Building Dreams and Futures</h1>
 
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="600" height="300"  /> -->
@@ -10,9 +10,11 @@
 
 ### <div>About Me:</div>
 <div>
- <div align="center"> I'm Abdulhakeem, I build Solutions (Dreams and Futures) </div>
+ <div align="center"> 
+  <p>I'm Abdulhakeem, I build Solutions (Dreams and Futures) </p>
 
- <p>By leveraging several tools, skill sets, and years of experience to:</p>
+  <p>By leveraging several tools, skill sets, and years of experience to:</p>
+ </div>
  <table>
   <tr><td>1. Build websites (that can be used as a catalog, brand platform, and/or sales funnel). These websites help businesses grow, drive engagement, and serve as cardinal tools for online presence.</td>
   </tr>  
@@ -24,9 +26,9 @@
  </table>
 
  <p>
-  I am an astute problem solver with excellent communication, listening, speaking, and writing skills. I solve problems and overcome challenges, even if it requires in-depth research or learning new skills to get the job done.
+  I am a skilled problem solver with strong communication, listening, speaking, and writing skills. I solve problems and overcome challenges, even if it requires in-depth research or learning new skills to accomplish the task.
  </p>
- <span style={{fontWidth: "bold"}}>In the end, I just want to build solutions that help humanity grow.</span>
+ <span style={{fontWidth: "bold"}}>In the end, I want to build solutions that help humanity grow.</span>
 </div>
 
 
