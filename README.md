@@ -11,7 +11,7 @@
 ### <div>About Me:</div>
 <div>
  <div align="center"> 
-  <p>I'm Abdulhakeem, I build Solutions (Dreams and Futures) </p>
+  <p>I'm Abdulhakeem, I build Solutions (Dreams and Futures). </p>
 
   <p>By leveraging several tools, skill sets, and years of experience to:</p>
  </div>
