@@ -35,7 +35,7 @@
 ### <div align="center">Work With Me: </div>
 
 - 📫 Have a project or Idea? You can reach me through:
-     - portfolio: https://altruva-group.netlify.app
+     - portfolio: https://altruvagroup.netlify.app
      - mail📧: dev.abdulhakeem@gmail.com
      - phone/WhatsApp📱: +2347063095047
      - X (formerly Twitter): @ennas_de
