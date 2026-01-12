@@ -1,13 +1,13 @@
 ## Hi, I’m Abdulhakeem 👋
 
-JavaScript / TypeScript Engineer focused on building and maintaining reliable, scalable systems.
+Helping SaaS/Agencies scale efficiently through code and strategy.
 
 ### What I work on
 - Node.js & TypeScript tooling
 - Backend services & APIs
 - Developer tools and libraries
 - Blockchain infrastructure & SDKs
-- AI / data-driven systems (LLM integrations, pipelines)
+- AI / data-driven systems (Agentic AI and LLM integrations, pipelines)
 
 ### Open Source
 - I contribute bug fixes, improvements, and refactors to active JS/TS projects
