@@ -1,11 +1,13 @@
 ## Hi, I’m Abdulhakeem.
 
-Building the future of AI — from foundational theory to production-ready systems — while contributing to open source and advancing developer tools.
+Building the future of AI & Blockchain — from foundational theory to production-ready systems — while contributing to open source and advancing developer tools.
+
+### My AI & Blockchain research now lives at "Altruva Labs" (https://github.com/Altruva-Labs)
 
 ### What I work on
 - Artificial Intelligence & Agentic Systems: LLM integrations, intelligent agents, pipelines, and AI production infrastructure
-- Low-level & Systems Programming: C, C++, memory-efficient algorithms, and high-performance computing
 - Blockchain & Decentralized Systems: Infrastructure, SDKs, and integration layers
+- Low-level & Systems Programming: C, C++, memory-efficient algorithms, and high-performance computing
 - Full-Stack & Developer Tooling: Node.js, TypeScript, backend services, APIs, and libraries
 - Developer tools and libraries
 
