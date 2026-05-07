@@ -4,6 +4,8 @@ Building the future of AI & Blockchain — from foundational theory to productio
 
 ### My AI & Blockchain research now lives at "Altruva Labs" (https://github.com/Altruva-Labs)
 
+### My Startup projects are hosted on "Altruva Group's" repositories (https://github.com/orgs/Altruva-Group)
+
 ### What I work on
 - Artificial Intelligence & Agentic Systems: LLM integrations, intelligent agents, pipelines, and AI production infrastructure
 - Blockchain & Decentralized Systems: Infrastructure, SDKs, and integration layers
