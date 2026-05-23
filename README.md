@@ -2,7 +2,7 @@
 
 Building the future of AI & Blockchain — from foundational theory to production-ready systems — while contributing to open source and advancing developer tools.
 
-### My AI & Blockchain research now lives at "Altruva Labs" (https://github.com/Altruva-Labs)
+### My AI & Blockchain researches now live at "Altruva Labs" (https://github.com/Altruva-Labs)
 
 ### My Startup projects are hosted on "Altruva Group's" repositories (https://github.com/orgs/Altruva-Group)
 
