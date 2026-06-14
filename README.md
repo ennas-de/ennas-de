@@ -1,5 +1,7 @@
 ## Hi, I’m Abdulhakeem.
 
+### Founder & CEO @ [Ennas Crown Concepts](https://ecconcepts.netlify.app/) and its Ecosystems (Altruva Group, Altruva Lab, LAEM Institute, CrownPageant, Crovex)
+
 Building the future of AI & Blockchain — from foundational theory to production-ready systems — while contributing to open source and advancing developer tools.
 
 ### My AI & Blockchain researches now live at "Altruva Labs" (https://github.com/Altruva-Labs)
