@@ -30,8 +30,8 @@ This experience informs my approach to designing robust, efficient, and scalable
 
 ### Get in touch
 - Company: https://ecconcepts.netlify.app
-- Portfolio: https://altruvagroup.netlify.app
-- Personal: https://concourx.netlify.app (ongoing)
+- Work: https://altruvagroup.netlify.app
+- Personal: https://concourx.netlify.app/abdulhakeem-muhammed (ongoing)
 - Email: dev.abdulhakeem@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi/
 
