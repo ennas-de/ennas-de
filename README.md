@@ -29,8 +29,9 @@ I’ve spent several years building production systems that combine:
 This experience informs my approach to designing robust, efficient, and scalable solutions, whether contributing to open source or building production AI systems like Atlas AI.
 
 ### Get in touch
-- Company: https://altruvagroup.netlify.app
-- Portfolio: https://concourx.netlify.app (ongoing)
+- Company: https://ecconcepts.netlify.app
+- Portfolio: https://altruvagroup.netlify.app
+- Personal: https://concourx.netlify.app (ongoing)
 - Email: dev.abdulhakeem@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdulhakeem-muhammed-ibiyemi/
 
